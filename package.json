@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "dlib": "^0.0.99"
+  }
+}
